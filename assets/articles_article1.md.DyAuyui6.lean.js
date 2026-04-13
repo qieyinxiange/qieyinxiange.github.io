@@ -1,0 +1,2 @@
+import{_ as a,o as r,c as l,j as e}from"./chunks/framework.BQXsq4T4.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"articles/article1.md","filePath":"articles/article1.md"}'),s={name:"articles/article1.md"};function c(n,t,o,i,p,d){return r(),l("div",null,[...t[0]||(t[0]=[e("pre",null,[e("code",null,`    画堂春·清明见春色有感以赠申公
+`)],-1),e("p",null,"玲珑日暖色芳泼，小亭独对横波。裁将新柳卷云帛。取水天摹。 何处花红映酒，流光易把春磨。东风有恨共无多。相与谁说。",-1)])])}const f=a(s,[["render",c]]);export{_ as __pageData,f as default};
